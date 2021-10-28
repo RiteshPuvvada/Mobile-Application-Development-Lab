@@ -226,6 +226,7 @@
         android:ems="10"
         android:inputType="number"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#D3C4C4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
