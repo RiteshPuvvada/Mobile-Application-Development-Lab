@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/coda</item>
+        <item>@font/frijole</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/marvel</item>
+        <item>@font/ribeye_marrow</item>
+    </array>
+</resources>
